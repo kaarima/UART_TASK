@@ -13,7 +13,7 @@ This program demonstrates how to initialize, configure, transmit, and receive da
 
 1. Open a terminal and navigate to the `uart_project` directory:
    ```sh
-   cd /home/karima/uart_project
+   
    ```
 2. Build the program using `make`:
    ```sh
